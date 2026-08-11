@@ -1,0 +1,8 @@
+pip install streamlit
+pip install pypdf
+pip install langchain-text-splitters
+pip install langchain-huggingface
+pip install langchain-community
+pip install langchain-groq
+pip install faiss-cpu
+pip install sentence-transformers
